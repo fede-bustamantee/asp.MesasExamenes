@@ -1,0 +1,49 @@
+/* _content/MesasExamenes/Pages/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-ls0ia7avzt] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-ls0ia7avzt] {
+  color: #0077cc;
+}
+
+.btn-primary[b-ls0ia7avzt] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-ls0ia7avzt], .nav-pills .show > .nav-link[b-ls0ia7avzt] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-ls0ia7avzt] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-ls0ia7avzt] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-ls0ia7avzt] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-ls0ia7avzt] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-ls0ia7avzt] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
